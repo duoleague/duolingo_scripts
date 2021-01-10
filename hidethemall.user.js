@@ -26,7 +26,7 @@
     // Add CSS
     addGlobalStyle(
         ' dummy /* div._3W86r learn page only, not shop */ '
-        + ', #div._3W86r div._1_p4S._3Gj5_ /* no duo legaue only */ '
+        + ', div._3W86r div._1_p4S._3Gj5_ /* no duo legaue only */ '
         + ', #div._3W86r div._2O43A._3ZuGY /* no weekly progress */ '
         + ', div._3W86r div._1UOwI._3bfsh /* no advert framed area */ '
         + ', div.iLgf- div._1UOwI._3bfsh /* no advert in shop */ '
