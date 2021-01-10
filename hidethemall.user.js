@@ -9,7 +9,6 @@
 // @author       cansado_sin_sol
 // @license      agpl3
 // @include      htt*://*.duolingo.com/*
-// @grant        none
 // ==/UserScript==
 
 (function() {
