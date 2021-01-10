@@ -15,7 +15,7 @@ To install scripts you should allow your TamperMonkey to work with all sites or 
 
 ## how to use
 
-It is very simple and plain: the result will be seen immediately.
+It is very simple and plain: the result will be seen after reload web-page (press F5 in your browser).
 
 ## как установить
 
@@ -23,7 +23,7 @@ It is very simple and plain: the result will be seen immediately.
 
 ## как использовать
 
-Очень просто: скрипты применяются к сайту дуолинго сразу после установки.
+Очень просто: скрипт применяется к сайту дуолинго после обновления страницы по F5.
 
 # these scripts also are very useful
 
