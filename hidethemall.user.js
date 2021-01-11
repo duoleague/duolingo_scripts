@@ -30,6 +30,7 @@
         + ', #div._3W86r div._2O43A._3ZuGY /* no weekly progress */ '
         + ', div._3W86r div.XPBox /* no XPBreakdown */ '
         + ', div._3W86r div#languagesBox /* no languages info */ '
+        + ', div._3W86r div._3ZuGY.sidebarCrownsInfoContainer /* no crowns info */ '
         + ', div._3W86r div._1UOwI._3bfsh /* no advert framed area */ '
         + ', div.iLgf- div._1UOwI._3bfsh /* no advert in shop */ '
         + ', div._3W86r div.Yth9H._3ZuGY /* no next achievement */ '
@@ -44,3 +45,4 @@
         + ' {display: none !important;} '
     )
 })();
+#root > div > div._3W86r._1Xlh1 > div > div._1YfQ8 > div._3ZuGY.sidebarCrownsInfoContainer
