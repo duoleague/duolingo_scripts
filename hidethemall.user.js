@@ -26,13 +26,15 @@
     // Add CSS
     addGlobalStyle(
         ' dummy /* div._3W86r learn page only, not shop */ '
-        + ', div._3W86r div._1_p4S._3Gj5_ /* no duo legaue only */ '
+        + ', div._3W86r div > div._1_p4S._3Gj5_ /* no duo legaue only */ '
         + ', #div._3W86r div._2O43A._3ZuGY /* no weekly progress */ '
+        + ', div._3W86r div.XPBox /* no XPBreakdown */ '
+        + ', div._3W86r div#languagesBox /* no languages info */ '
         + ', div._3W86r div._1UOwI._3bfsh /* no advert framed area */ '
         + ', div.iLgf- div._1UOwI._3bfsh /* no advert in shop */ '
         + ', div._3W86r div.Yth9H._3ZuGY /* no next achievement */ '
-        + ', div._3W86r div._3Gj5_:nth-child(5) /* no friends */ '
-        + ', div._3W86r div._3Gj5_:nth-child(6) /* no share */ '
+        + ', div._3W86r div._3Gj5_:nth-last-of-type(2) /* no friends */ '
+        + ', div._3W86r div._3Gj5_:last-of-type:not(:only-child) /* no share */ '
         + ', div._3o_lc /* no duo plus in shop */ '
         + ', ._1RL1c /* no duo anim gif */ '
         + ', div.SQR8J.wm1bO /* no duo plus after learn */ '
