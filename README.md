@@ -40,3 +40,5 @@ https://greasyfork.org/ru/scripts/410680-blur-spoken-text-duolingo-com
 ## Collapsable Duolingo Comments
 
 https://forum.duolingo.com/comment/12127588/Collapsible-comments-user-script
+
+see [juansoldi comment](https://forum.duolingo.com/comment/12127588?comment_id=36205733) 
