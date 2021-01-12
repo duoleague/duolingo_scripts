@@ -45,4 +45,3 @@
         + ' {display: none !important;} '
     )
 })();
-#root > div > div._3W86r._1Xlh1 > div > div._1YfQ8 > div._3ZuGY.sidebarCrownsInfoContainer
