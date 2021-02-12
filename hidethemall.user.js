@@ -4,7 +4,7 @@
 // @homepageURL  https://github.com/duoleague/duolingo_scripts
 // @supportURL   https://github.com/duoleague/duolingo_scripts/issues
 // @updateURL    https://github.com/duoleague/duolingo_scripts/hidethemall.user.js
-// @version      2021.1.13
+// @version      2021.2.13
 // @description  Make league, advert and friends invisible on /learn page etc.
 // @author       cansado_sin_sol
 // @license      agpl3
@@ -43,5 +43,7 @@
         + ', div._2VdVL._2CLsU /* no adv on discuss */ '
         + ', div._3yqw1.np6Tv /* no PLUS eyes on learn */ '
         + ' {display: none !important;} '
+        + ' /* full league list in shop */ '
+        + ' div.iLgf- div._2Rsru {height: auto !important;} '
     )
 })();
